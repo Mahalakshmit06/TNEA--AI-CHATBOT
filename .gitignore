@@ -1,0 +1,25 @@
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/campus_ai.db
+frontend/node_modules/
+frontend/dist/
+*.pyc
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/.venv/
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
